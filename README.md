@@ -21,9 +21,17 @@ This Power BI dashboard project visualizes and analyzes hospital operations usin
 
 ## 📸 Dashboard Preview
 
-##1. Executive Summary
+1. Executive Summary
 
 ![Executive Summary](images/ExecutiveSummaryPage.png)
+
+2. Patient Insights
+
+![Executive Summary](images/PatientInsightsPage.png)
+
+1. Doctor Performance
+
+![Executive Summary](images/DoctorPerformancePage.png)
 
 ## 🚀 Getting Started
 To explore the report:
