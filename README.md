@@ -15,7 +15,7 @@ This Power BI dashboard project visualizes and analyzes hospital operations usin
 - `Treatments`
 
 ## 📎 Files
-- `HospitalDashboard.pbix` – Main dashboard
+- `HospitalManagement.pbix` – Main dashboard
 - `sample_data/` – Sample datasets
 - `images/` – Screenshots of report pages
 
