@@ -19,6 +19,12 @@ This Power BI dashboard project visualizes and analyzes hospital operations usin
 - `sample_data/` – Sample datasets
 - `images/` – Screenshots of report pages
 
+## 📸 Dashboard Preview
+
+#1. Executive Summary
+
+![Executive Summary](images/ExecutiveSummaryPage)
+
 ## 🚀 Getting Started
 To explore the report:
 1. Download the `.pbix` file
