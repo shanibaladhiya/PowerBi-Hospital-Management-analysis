@@ -29,7 +29,7 @@ This Power BI dashboard project visualizes and analyzes hospital operations usin
 
 ![Executive Summary](images/PatientInsightsPage.png)
 
-1. Doctor Performance
+3. Doctor Performance
 
 ![Executive Summary](images/DoctorPerformancePage.png)
 
